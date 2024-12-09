@@ -1,0 +1,18 @@
+{
+  "name": "tailwind4-demo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juho Vepsäläinen",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.0-beta.6",
+    "@tailwindcss/typography": "^0.5.15",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^4.0.0-beta.6"
+  }
+}
